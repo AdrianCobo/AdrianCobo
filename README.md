@@ -1,4 +1,4 @@
-<h2 align="center">Adrián Cobo</h2>
+<h2 align="center">Adrián Cobo Merino</h2>
 
 <h3 align="center">🤖 Software Robotics Engineer | Computer Vision & AI 🤖</h3>
 
