@@ -1,6 +1,6 @@
-<h2 align="center">Hi 👋, I'm Adrián Cobo</h2>
+<h2 align="center">Adrián Cobo</h2>
 
-<h3 align="center">A student in software robotics engineering, at Rey Juan Carlos University 🤖</h3>
+<h3 align="center">🤖 Software Robotics Engineer | Computer Vision & AI 🤖</h3>
 
 ###
 <h3 align="center">
