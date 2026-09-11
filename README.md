@@ -1,6 +1,6 @@
 <h2 align="center">Adrián Cobo Merino</h2>
 
-<h3 align="center">Head of robotics at NextLevelTechnologies</h3>
+<h3 align="center">Head of robotics & AI at NextLevelTechnologies</h3>
 <h3 align="center">🤖 Software Robotics Engineer | Computer Vision & AI 🤖</h3>
 
 ###
